@@ -1,5 +1,5 @@
-## Web-Scraper
-A Data Extraction and Storage program scraping from IMDb website homepage.
+# Web-Scraper
+#### A Data Extraction and Storage program scraping from IMDb website homepage.
 
 ## Abstract
 A python program that scrapes the data from Top 1000 rated Movies IDMb webpage and then cleans the grabbed data and store it in a csv format.
